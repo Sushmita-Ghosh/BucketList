@@ -4,7 +4,7 @@
 
 ## Overview
 
-🌱 Welcome to the BloomAtlas, a web application that provides information about various plants, categorized by type. Explore a diverse collection of plants and learn more about their common names, scientific names, and descriptions.
+🌱 Welcome to the BloomAtlas, a web application that provides information about various plants, categorized by type. Explore a diverse collection of plants and learn more about their common names, scientific names, and descriptions. This is still an ongoing project.
 
 ---
 
